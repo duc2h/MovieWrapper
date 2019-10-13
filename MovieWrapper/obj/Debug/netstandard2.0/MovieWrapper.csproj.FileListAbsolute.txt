@@ -1,0 +1,15 @@
+C:\Users\HoangDuc\source\repos\MovieWrapper\MovieWrapper\bin\Debug\netstandard2.0\MovieWrapper.deps.json
+C:\Users\HoangDuc\source\repos\MovieWrapper\MovieWrapper\bin\Debug\netstandard2.0\MovieWrapper.dll
+C:\Users\HoangDuc\source\repos\MovieWrapper\MovieWrapper\bin\Debug\netstandard2.0\MovieWrapper.pdb
+C:\Users\HoangDuc\source\repos\MovieWrapper\MovieWrapper\obj\Debug\netstandard2.0\MovieWrapper.AssemblyInfoInputs.cache
+C:\Users\HoangDuc\source\repos\MovieWrapper\MovieWrapper\obj\Debug\netstandard2.0\MovieWrapper.AssemblyInfo.cs
+C:\Users\HoangDuc\source\repos\MovieWrapper\MovieWrapper\obj\Debug\netstandard2.0\MovieWrapper.dll
+C:\Users\HoangDuc\source\repos\MovieWrapper\MovieWrapper\obj\Debug\netstandard2.0\MovieWrapper.pdb
+D:\Project_HoangDuc\MovieWrapper\MovieWrapper\bin\Debug\netstandard2.0\MovieWrapper.deps.json
+D:\Project_HoangDuc\MovieWrapper\MovieWrapper\bin\Debug\netstandard2.0\MovieWrapper.dll
+D:\Project_HoangDuc\MovieWrapper\MovieWrapper\bin\Debug\netstandard2.0\MovieWrapper.pdb
+D:\Project_HoangDuc\MovieWrapper\MovieWrapper\obj\Debug\netstandard2.0\MovieWrapper.csprojAssemblyReference.cache
+D:\Project_HoangDuc\MovieWrapper\MovieWrapper\obj\Debug\netstandard2.0\MovieWrapper.AssemblyInfoInputs.cache
+D:\Project_HoangDuc\MovieWrapper\MovieWrapper\obj\Debug\netstandard2.0\MovieWrapper.AssemblyInfo.cs
+D:\Project_HoangDuc\MovieWrapper\MovieWrapper\obj\Debug\netstandard2.0\MovieWrapper.dll
+D:\Project_HoangDuc\MovieWrapper\MovieWrapper\obj\Debug\netstandard2.0\MovieWrapper.pdb
