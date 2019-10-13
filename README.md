@@ -1,5 +1,3 @@
-# MovieWrapper
-
 ## Mô tả về project: 
 
 Project MovieWrapper là 1 thư viện chung dùng vào mục đích lấy dữ liệu từ các nhà cung cấp phim như: CGV, Galaxy, BHD. Sau đó convert kết quả dữ liệu đó theo 1 định dạng mặc định duy nhất và trả kết quả như: danh sách phim đang chiếu, chi tiết 1 bộ phim, địa điểm và thời gian chiếu của phim đó.
