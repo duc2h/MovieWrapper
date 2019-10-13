@@ -37,7 +37,6 @@ namespace MovieWrapper.Service
                              where sessionMovie.Dates != null &&
                                    sessionMovie.Dates.Any(d => d.ShowDate.Equals(date.ToString("dd/MM/yyyy")))
                              select sessionMovie.Name).ToList();
-
             if (locations.Count == 0) return null;
 
             return new SessionMovie

@@ -21,6 +21,5 @@ namespace MovieWrapper.Model
     public class CinemaBHD
     {
         public string CinemaId { get; set; }
-        public string Name { get; set; }
     }
 }

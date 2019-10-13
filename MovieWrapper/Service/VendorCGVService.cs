@@ -14,7 +14,7 @@ namespace MovieWrapper.Service
 {
     public class VendorCGVService : IVendorCGVService
     {
-        private readonly string _baseUrl = "http://www.cgv.vn/default/api/movie";
+        private readonly string _baseUrl = "https://www.cgv.vn/default/api/movie";
 
         public List<MovieCGV> GetShowingMovie()
         {
@@ -38,8 +38,10 @@ namespace MovieWrapper.Service
             if (sessionMovieCGV == null) return null;
 
             var locations = (from location in sessionMovieCGV.Locations
-                from cinema in location.Cinemas
-                select cinema.Name).ToList();
+                             from cinema in location.Cinemas
+                             select cinema.Name).ToList();
+            if (locations.Count == 0) return null;
+
             return new SessionMovie
             {
                 Date = sessionMovieCGV.Date,
